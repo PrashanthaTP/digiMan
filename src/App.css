@@ -2,6 +2,9 @@
     width: 100%;
     height: 100vh;
     background-color: #f6f6f6;
+    display: flex;
+    flex-direction: row;
+    /* background-color: #f82e2e; */
 }
 
 body{
